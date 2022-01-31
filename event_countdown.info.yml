@@ -1,0 +1,5 @@
+name: Event Countdown Module
+description: Creates a custom block that counts the days until an event starts.
+package: Custom
+type: module
+core_version_requirement: ^9
